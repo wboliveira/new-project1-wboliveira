@@ -1,2 +1,2 @@
 # new-project1-wboliveira
-aprendendo git/github
+Introdução ao Git e ao GitHub (DIO)
